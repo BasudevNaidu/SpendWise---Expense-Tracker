@@ -4,9 +4,9 @@ export const EXPENSE_CATEGORIES = [
   'College/Education',
   'Transportation',
   'Healthcare',
-  'Utilities',
+  'Investment',
   'Shopping',
-  'Dining Out',
+  'Food',
   'Miscellaneous'
 ];
 
@@ -14,7 +14,7 @@ export const INCOME_CATEGORIES = [
   'Salary',
   'Freelance',
   'Investment',
-  'Gift',
+  'Due Return',
   'Other'
 ];
 
