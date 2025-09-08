@@ -7,7 +7,7 @@ export const EXPENSE_CATEGORIES = [
   'Investment',
   'Shopping',
   'Food',
-  'Miscellaneous'
+  'For Home'
 ];
 
 export const INCOME_CATEGORIES = [
