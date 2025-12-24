@@ -33,7 +33,7 @@ const Header: React.FC<HeaderProps> = ({ currentMonth, onMonthChange, availableM
               <h1 className="text-3xl font-bold text-white drop-shadow-lg flex items-center gap-2">
                 SpendWise <Sparkles className="h-6 w-6 text-yellow-300 animate-pulse" />
               </h1>
-              <p className="text-sm text-white/90 drop-shadow">व्यक्तिगत खर्च विश्लेषण • Personal Spending Analysis</p>
+              <p className="text-sm text-white/90 drop-shadow">Spendster • Personal Spending Analysis</p>
             </div>
           </div>
           
